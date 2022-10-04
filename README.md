@@ -1,5 +1,3 @@
-#DEMO
-
-Some text
+# Some text
 
 Some desc
